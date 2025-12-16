@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 
-const WHATSAPP_E164 = "+201234567890"; // عدّل الرقم هنا
+const WHATSAPP_E164 = "+201507619503"; // عدّل الرقم هنا
 const BRAND = "ICODE";
 
 function waLink(message) {
